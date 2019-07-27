@@ -1,0 +1,6 @@
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg7 Çarkıfelek\Silverlight Uyg7 Çarkıfelek.Web\bin\Silverlight Uyg7 Çarkıfelek.Web.dll.config
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg7 Çarkıfelek\Silverlight Uyg7 Çarkıfelek.Web\bin\Silverlight Uyg7 Çarkıfelek.Web.dll
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg7 Çarkıfelek\Silverlight Uyg7 Çarkıfelek.Web\bin\Silverlight Uyg7 Çarkıfelek.Web.pdb
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg7 Çarkıfelek\Silverlight Uyg7 Çarkıfelek.Web\obj\Debug\Silverlight Uyg7 Çarkıfelek.Web.csprojResolveAssemblyReference.cache
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg7 Çarkıfelek\Silverlight Uyg7 Çarkıfelek.Web\obj\Debug\Silverlight Uyg7 Çarkıfelek.Web.dll
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg7 Çarkıfelek\Silverlight Uyg7 Çarkıfelek.Web\obj\Debug\Silverlight Uyg7 Çarkıfelek.Web.pdb
